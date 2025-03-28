@@ -84,8 +84,8 @@
     padding: 0;
   }
   .logo_image {
-    height: auto;
-    width: 40%;
+    height: 10rem;
+    width: 10rem;
   }
   .profile {
     display: grid;
